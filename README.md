@@ -14,8 +14,8 @@ This project is built to introduce myself, showcase my projects, and demonstrate
 
 ## 📸 Preview
 
-![Portfolio Preview 1](./public/)  
-![Portfolio Preview 2](./public/)
+![Portfolio Preview 1](public/images/TowSc.png)  
+![Portfolio Preview 2](public/images/oneSc.png)
 
 ---
 
